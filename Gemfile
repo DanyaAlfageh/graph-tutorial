@@ -63,7 +63,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "omniauth-oauth2", "~> 1.6"
 
-gem "httparty", "~> 0.17.0"
+gem "httparty", "~> 0.21.0"
 
 gem "nokogiri", "~> 1.10"
 
